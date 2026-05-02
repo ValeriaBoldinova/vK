@@ -1,4 +1,5 @@
 # QuizLive — Интерактивные квизы в реальном времени
+Ссылка на фигму - https://www.figma.com/design/OXkWVD2dSC5IB8v0eLy9pr/Untitled?node-id=0-1&t=Bs6hFyczg4flSlKw-1
 
 MVP веб-приложения для проведения квизов на мероприятиях (задание VK).
 
